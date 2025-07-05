@@ -4,15 +4,13 @@
 
 ### What this mod allows (and will allow)
 
-    1. See the combinations in the hand. (remained Flush House)
-    2. Calculate the odds of each combination falling out when the hand is discarded (WIP)
-    3. Calculating the chips the hand will bring (WIP)
+    See the combinations in the hand. (remained Flush House)
 
 ## Why did I do this
 
-I think balatro is a very tough game. Especially if you want to conquer it, because you need to be oriented to the situation and make calculations in your mind as chips and possible combinations at discard
-
-Therefore, I decided to write this mod, which will help people who do not want to go into the depths of probability theory to enjoy the game without losing Full House in a search for a Flush
+I found the original mod very handy, but I had a different idea in mind
+my version of the mod removes all visual bloat, and leaves only the in-hand combinations
+also, I removed code that was writing to the game state as this made this mod quite unstable at times
 
 ## Installation
 
